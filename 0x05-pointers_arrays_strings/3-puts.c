@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _puts - prints a string to the standard output.
  * @str: the string to be printed.
@@ -17,6 +16,3 @@ void _puts(char *str)
 	}
 	_putchar('\n');
 }
-
-Footer
-© 2022 GitHub, Inc.

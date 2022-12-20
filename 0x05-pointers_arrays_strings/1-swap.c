@@ -15,5 +15,3 @@ void swap_int(int *a, int *b)
 	*b = *a;
 	*a = tmp;
 }
-Footer
-© 2022 GitHub, Inc.

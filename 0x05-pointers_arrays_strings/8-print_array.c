@@ -1,5 +1,5 @@
-#include "main.h"
-#include <stdio.h>
+#include "holberton.h"
+#include <studio.h>
 
 /**
  * print_array - prints n elements of an array of integers,
@@ -25,5 +25,3 @@ void print_array(int *a, int n)
 	}
 	printf("\n");
 }
-Footer
-© 2022 GitHub, Inc.
